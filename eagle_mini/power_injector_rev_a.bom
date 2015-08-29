@@ -1,0 +1,18 @@
+Partlist exported from C:/Users/akhe/Documents/development/hardware_zeus/can4vscp/power_injector/eagle/power_injector_rev_a.sch at 2011-10-03 11:50:20
+
+Part Value           Device          Package      Description               Description     Supplier Partnumber        Price
+D1   S1D             DIODE-SMB       SMB          DIODE                     Protection diod Digikey  1N5819HW-FDICT-ND 3,84 
+F1   MF-R050         R-EU_M0805      M0805        RESISTOR, European symbol Fuse            Digikey  MF-r050-nd        6,24 
+F2   MF-R050         R-EU_M0805      M0805        RESISTOR, European symbol Fuse            Digikey  MF-r050-nd        6,24 
+F3   MF-R050         R-EU_M0805      M0805        RESISTOR, European symbol Fuse            Digikey  MF-r050-nd        6,24 
+J1                   JACK-PLUG0      SPC4077      DC POWER JACK             Power connector Digikey  CP-102A-ND        7,36 
+J2   A00-108-220-450 A00-108-220-450 RJ-45                                  RJ-45 connector Digikey  151-1099-nd       5,6  
+J3   A00-108-220-450 A00-108-220-450 RJ-45                                  RJ-45 connector Digikey  151-1099-nd       5,6  
+LED1                 LEDCHIP-LED0805 CHIP-LED0805 LED                       Green LED       Digikey  475-1410-1-nd     0,88 
+LED2                 LEDCHIP-LED0805 CHIP-LED0805 LED                       Green LED       Digikey  475-1410-1-nd     0,88 
+LED3                 LEDCHIP-LED0805 CHIP-LED0805 LED                       Green LED       Digikey  475-1410-1-nd     0,88 
+LED4                 LEDCHIP-LED0805 CHIP-LED0805 LED                       Green LED       Digikey  475-1410-1-nd     0,88 
+R1   4k7             R-EU_R0805      R0805        RESISTOR, European symbol Resistor        Bejoken  454668            0.011
+R2   4k7             R-EU_R0805      R0805        RESISTOR, European symbol Resistor        Bejoken  454668            0.011
+R3   4k7             R-EU_R0805      R0805        RESISTOR, European symbol Resistor        Bejoken  454668            0.011
+R4   4k7             R-EU_R0805      R0805        RESISTOR, European symbol Resistor        Bejoken  454668            0.011

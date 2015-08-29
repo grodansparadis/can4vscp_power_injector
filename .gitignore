@@ -30,3 +30,34 @@
 
 # Debug files
 *.dSYM/
+/eagle_big/*.b#1
+/eagle_big/*.b#2
+/eagle_big/*.b#3
+/eagle_big/*.b#4
+/eagle_big/*.b#5
+/eagle_big/*.b#6
+/eagle_big/*.b#7
+/eagle_big/*.b#8
+/eagle_big/*.b#9
+/eagle_big/*.s#1
+/eagle_big/*.s#2
+/eagle_big/*.s#3
+/eagle_big/*.s#4
+/eagle_big/*.s#5
+/eagle_mini/*.b#1
+/eagle_mini/*.b#2
+/eagle_mini/*.b#3
+/eagle_mini/*.b#4
+/eagle_mini/*.b#5
+/eagle_mini/*.b#6
+/eagle_mini/*.b#7
+/eagle_small/*.b#1
+/eagle_small/*.b#2
+/eagle_small/*.b#3
+/eagle_small/*.b#4
+/eagle_small/*.b#5
+/eagle_small/*.b#6
+/eagle_small/*.b#7
+/eagle_small/*.s#1
+/eagle_small/*.s#2
+/eagle_small/*.s#3

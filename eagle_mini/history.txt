@@ -1,0 +1,12 @@
+CAN4VSCP Power injector
+=======================
+
+2015-08-26 - AKHE - tidied up
+2014-06-14 - AKHE - Changed input diod to PMEG3015EH,115 - http://www.digikey.com/product-detail/en/PMEG3015EH,115/568-4127-1-ND/1589942
+2014-11-24 - AKHE - Wring wiring between RJ45's fixed.
+2014-11-24 - AKHE - Rev C
+2014-06-18 - AKHE - Fixing dimensions
+2014-06-18 - AKHE - Job sent out
+2012-01-20 - AKHE - Changed power connector with one with 1.1mm holes.
+2012-01-20 - AKHE - Rev B Wrong footprint for F1, F2, F3 corrected.
+2012-01-20 - AKHE - Rev B
