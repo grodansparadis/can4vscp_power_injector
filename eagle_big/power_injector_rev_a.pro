@@ -2,12 +2,12 @@ EAGLE AutoRouter Statistics:
 
 Job           : C:/Users/grodansparadis/development/can4vscp_power_injector/eagle_big/power_injector_rev_a.brd
 
-Start at      : 14:35:33 (2015-09-28)
-End at        : 14:35:33 (2015-09-28)
+Start at      : 13:22:45 (2015-11-03)
+End at        : 13:22:45 (2015-11-03)
 Elapsed time  : 00:00:00
 
 Signals       :     9   RoutingGrid: 50 mil  Layers: 2
-Connections   :    90   predefined:  89 ( 0 Vias )
+Connections   :    90   predefined:  90 ( 0 Vias )
 
 Router memory :   10660
 
@@ -18,8 +18,8 @@ Number of Ripups  :         0         0         0         0         0         0
 max. Level        :         0         0         0         0         0         0
 max. Total        :         0         0         0         0         0         0
 
-Routed            :         0         1         1         1         1         1
+Routed            :         0         0         0         0         0         0
 Vias              :         0         0         0         0         0         0
-Resolution        :    98.9 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
+Resolution        :   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
 Final             : 100.0% finished
