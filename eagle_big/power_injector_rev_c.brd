@@ -626,7 +626,7 @@ Covered vias can be set in Masks (Limit).
 <element name="J3" library="vscpcan" package="RJ-45" value="A00-108-220-450" x="63.06" y="10.27" smashed="yes" rot="R90">
 <attribute name="NAME" x="50.94" y="3.78" size="0.6096" layer="25" font="fixed" rot="R270"/>
 </element>
-<element name="D1" library="diode" package="SMB" value="PMEG3015EH,115" x="37.32" y="16.68" smashed="yes" rot="R180">
+<element name="D1" library="diode" package="SMB" value="S1D" x="37.32" y="16.68" smashed="yes" rot="R180">
 <attribute name="NAME" x="37.979" y="14.551" size="0.6096" layer="25" font="fixed" rot="R180"/>
 </element>
 <element name="R3" library="rcl" package="R0805" value="4k7" x="43.77" y="15.35" smashed="yes" rot="R180">

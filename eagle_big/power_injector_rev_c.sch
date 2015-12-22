@@ -6454,7 +6454,7 @@ Type: &lt;b&gt;SPC4077 / SPC 4078&lt;/b&gt;&lt;p&gt;</description>
 <part name="J2" library="vscpcan" deviceset="A00-108-220-450" device=""/>
 <part name="J3" library="vscpcan" deviceset="A00-108-220-450" device=""/>
 <part name="P+7" library="SUPPLY1" deviceset="+12V" device=""/>
-<part name="D1" library="diode" deviceset="DIODE-" device="SMB" value="PMEG3015EH,115"/>
+<part name="D1" library="diode" deviceset="DIODE-" device="SMB" value="S1D"/>
 <part name="GND3" library="SUPPLY1" deviceset="GND" device=""/>
 <part name="GND10" library="SUPPLY1" deviceset="GND" device=""/>
 <part name="R3" library="rcl" deviceset="R-EU_" device="R0805" value="4k7"/>
